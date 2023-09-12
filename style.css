@@ -1,0 +1,150 @@
+@font-face {
+    font-family: Bonny-Bold;
+    src: url("./font/Bonny-Bold.ttf");
+}
+@font-face {
+    font-family: Recia-Light;
+    src: url("./font/Recia-Light.ttf");
+}
+body {
+    background-color: black;
+}
+h1 {
+    font-family: Recia-Light;
+    font-size: 80px;
+    color:white;
+    text-align: center;
+}
+.indextext {
+    font-family: Recia-Light;
+    font-size: 23px;
+    color:white;
+    max-width: 1200px;
+    text-align: justify;
+    box-sizing: border-box;
+    margin: auto;
+}
+.adress {
+    font-family: Recia-Light;
+    font-size: 23px;
+    color:white;
+    text-align: right;
+    box-sizing: border-box;
+    margin-right: 100px;
+}
+.our {
+    font-family: Recia-Light;
+    font-size: 60px;
+    color:white;
+    text-align: center;
+    text-align: top;
+    box-sizing: border-box;
+}
+a:link {
+    color:white;
+}
+.fontpag {
+    font-family: Bonny-Bold;
+    font-size: 100px;
+    text-align: left;
+    text-align: top;
+    box-sizing: border-box;
+    margin: auto;
+    margin-left: 100px;  
+}
+.Bonnytitle {
+        font-family: Bonny-Bold;
+        font-size: 80px;
+        color:white;
+        text-align: center;
+}
+.Bonnyachille {
+    font-family: Bonny-Bold;
+    font-size: 42px;
+    color:white;
+    max-width: 1200px;
+    text-align: justify;
+    box-sizing: border-box;
+    margin: auto;
+}
+.Bonnyinfo {
+    font-family: Recia-Light;
+    font-size: 23px;
+    color:white;
+    max-width: 1200px;
+    text-align: justify;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 50px;
+}
+.Bonnystatsx {
+    list-style-type:circle;
+    font-family: Recia-Light;
+    font-size: 30px;
+    color:white;
+    max-width: 1200px;
+    text-align: justify;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 50px;
+}
+.indexpag {
+    font-family: Recia-Light;
+    font-size: 55px;
+    text-align: right;
+    text-align: top;
+    box-sizing: border-box;
+    margin: auto;  
+    margin-right: 150px;
+    margin-top: 50px;
+}
+.examplepag {
+    font-family: Recia-Light;
+    font-size: 55px;
+    text-align: left;
+    text-align: top;
+    box-sizing: border-box;
+    margin: auto;  
+    margin-left: 100px;
+    margin-top: -80px;
+}
+.Bonnybig {
+    font-family: Bonny-Bold;
+    font-size: 120px;
+    color:white;
+    max-width: 1200px;
+    text-align: justify;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 50px;
+}
+.Bonnymed {
+    font-family: Bonny-Bold;
+    font-size: 58px;
+    color:white;
+    max-width: 1200px;
+    text-align: justify;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 50px;
+}
+.Bonnymin {
+    font-family: Bonny-Bold;
+    font-size: 23px;
+    color:white;
+    max-width: 1200px;
+    text-align: justify;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 50px;
+}
+.fontpag2 {
+    font-family: Bonny-Bold;
+    font-size: 60px;
+    text-align: left;
+    text-align: top;
+    box-sizing: border-box;
+    margin: auto;  
+    margin-left: 150px;
+    margin-top: -80px;
+}
